@@ -13,7 +13,7 @@
 
 <hr>
 
-### Some tips in case you have trouble downloading:
+## Some tips in case you have trouble downloading:
 
 For Mac users there is a default app “Archive Utility” which doesn’t support all types of zip files. 
 This makes it difficult to unzip large Powerpoint files.
