@@ -1,8 +1,8 @@
 ## Welcome to CSc 59972: Intro to Distributed Algorithms
 
-### Syllabus:
+### Course Syllabus:
 
-<a href="https://cuny907-my.sharepoint.com/:f:/g/personal/devendra_kumar66_login_cuny_edu/Egb0Upvw095Cu9XGun5G4rwBG0-VjvFYQiLj7BBGgxza5Q?e=ctNtkQ">Course Syllabus</a>
+<a href="https://cuny907-my.sharepoint.com/:f:/g/personal/devendra_kumar66_login_cuny_edu/Egb0Upvw095Cu9XGun5G4rwBG0-VjvFYQiLj7BBGgxza5Q?e=ctNtkQ">Distributed Algorithms Syllabus</a>
 
 ### Ch 1. Model of distributed computing (Ref: Section 1.1 of textbook):
 
@@ -21,37 +21,8 @@
 
 ### Ch 2. Arbitrary spanning tree and related problems:
 
+#### Sec 2.1 Arbitrary traversal of the network:
 
+- <a href="https://cuny907-my.sharepoint.com/:u:/g/personal/devendra_kumar66_login_cuny_edu/EdO2OzLrpDpLtng-DVZWzYIBrNGQq84Nz_HExBCrGs1Vsw?e=pw6Enn">Lecture 3 - Part A</a>
+- <a href="https://cuny907-my.sharepoint.com/:u:/g/personal/devendra_kumar66_login_cuny_edu/ERfu9rdwOMtCn7p1Ht6Bc4IBkDBKLaJYnw1_ktXcAlyNTA?e=USbTfb">Lecture 3 - Part B</a>0
 
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rehman000/Distributed_Algorithms/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
