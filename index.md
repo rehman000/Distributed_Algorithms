@@ -7,6 +7,22 @@
 
 **Duration:** Tuesday - Thursday (3:30 PM - 4:45 PM)
 
+<hr>
+
+### Some tips in case you have trouble downloading:
+
+For Mac users there is a default app “Archive Utility” which doesn’t support all types of zip files. 
+This makes it difficult to unzip large Powerpoint files.
+
+- Solution 1: use a Windows computer if possible.
+- Solution 2: There is a third party software/apps  named  “The Unarchiver” in App Store which can be downloaded and can extract most of the formats of zip files.
+
+If problems, downloading via a different browser may help. 
+- Another tip:
+On Mozilla Firefox: Click on Download (the vertical down arrow) near top right. Click Show All Downloads. On next page, click Clear Downloads.
+
+<hr>
+
 ### Course Syllabus:
 <hr>
 
@@ -67,3 +83,5 @@
 - <a href="https://docs.google.com/document/d/1R7XXDzz9k5EltmwNe565TYj76_uAC9lPYmQLzXW2R8E/edit?usp=sharing">Guidelines (3/26/21)</a>
 
 Make sure to check blackboard for the all notifications, course announcements, and the most upto date information! 
+
+<hr>
