@@ -1,10 +1,13 @@
 ## Welcome to CSc 59972: Intro to Distributed Algorithms
+<hr>
 
 ### Course Syllabus:
+<hr>
 
 <a href="https://cuny907-my.sharepoint.com/:f:/g/personal/devendra_kumar66_login_cuny_edu/Egb0Upvw095Cu9XGun5G4rwBG0-VjvFYQiLj7BBGgxza5Q?e=ctNtkQ">Distributed Algorithms Syllabus</a>
 
 ### Ch 1. Model of distributed computing (Ref: Section 1.1 of textbook):
+<hr>
 
 #### Sec 1.1. Overall Model of our Distributed System:
 
@@ -20,6 +23,7 @@
 - <a href="https://cuny907-my.sharepoint.com/:u:/g/personal/devendra_kumar66_login_cuny_edu/ES85CkKfdaZHnE0WMerJcKkBIo8uv4-xyKu4sO05FP6wFw?e=EwaUa0">Lecture 2 - Part C</a>
 
 ### Ch 2. Arbitrary spanning tree and related problems:
+<hr>
 
 #### Sec 2.1 Arbitrary traversal of the network:
 
