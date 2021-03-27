@@ -55,11 +55,14 @@
 - <a href="#">HW 1</a>
 - <a href="https://docs.google.com/document/d/1Y4jtR-et8dEa7pn_PahLBGrCZ-3a33iW0CsT_72rgBU/edit?usp=sharing">HW 2</a>
 
+<hr>
+
 #### Assignments Solutions:
 
 - <a href="https://docs.google.com/document/d/1y7tb7XP0TgPdKu0pJ0Fg4VJwMUg-jIQq1jadrW9-QYg/edit?usp=sharing">Solution to Mock HW</a>
 - <a href="https://docs.google.com/document/d/1q43eDpIniILlT4FG7HYkcXyLjAACSyYtMRg3YdiOP0Q/edit?usp=sharing">Solution to HW 1</a>
 - <a href="https://docs.google.com/document/d/1t81G15DHmpWbo12Gwh9GiMvEDRjwwuHwblwTx2nuy6Y/edit?usp=sharing">Solution to HW 2</a>
 
+<hr>
 
 Make sure to check blackboard for the all notifications, course announcements, and the most upto date information! 
