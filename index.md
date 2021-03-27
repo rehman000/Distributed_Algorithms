@@ -61,4 +61,9 @@
 
 <hr>
 
+#### Quiz:
+
+- Refer to Blackboard Announcements and Guidelines. 
+- <a href="https://docs.google.com/document/d/1R7XXDzz9k5EltmwNe565TYj76_uAC9lPYmQLzXW2R8E/edit?usp=sharing">Guidelines (3/26/21)</a>
+
 Make sure to check blackboard for the all notifications, course announcements, and the most upto date information! 
