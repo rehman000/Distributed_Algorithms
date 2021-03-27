@@ -7,6 +7,10 @@
 
 **Duration:** Tuesday - Thursday (3:30 PM - 4:45 PM)
 
+**Textbook:** Distributed Algorithms for Message-Passing Systems Michel Raynal
+
+<img src="https://imgur.com/zf9DCMj.png" width="250" height="400" />
+
 <hr>
 
 ### Some tips in case you have trouble downloading:
