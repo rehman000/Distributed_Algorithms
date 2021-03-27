@@ -1,6 +1,12 @@
 ## Welcome to CSc 59972: Intro to Distributed Algorithms
 <hr>
 
+**Instructor:** Professor Devendra Kumar
+
+**Location:** All online
+
+**Duration:** Tuesday - Thursday (3:30 PM - 4:45 PM)
+
 ### Course Syllabus:
 <hr>
 
@@ -28,5 +34,17 @@
 #### Sec 2.1 Arbitrary traversal of the network:
 
 - <a href="https://cuny907-my.sharepoint.com/:u:/g/personal/devendra_kumar66_login_cuny_edu/EdO2OzLrpDpLtng-DVZWzYIBrNGQq84Nz_HExBCrGs1Vsw?e=pw6Enn">Lecture 3 - Part A</a>
-- <a href="https://cuny907-my.sharepoint.com/:u:/g/personal/devendra_kumar66_login_cuny_edu/ERfu9rdwOMtCn7p1Ht6Bc4IBkDBKLaJYnw1_ktXcAlyNTA?e=USbTfb">Lecture 3 - Part B</a>0
+- <a href="https://cuny907-my.sharepoint.com/:u:/g/personal/devendra_kumar66_login_cuny_edu/ERfu9rdwOMtCn7p1Ht6Bc4IBkDBKLaJYnw1_ktXcAlyNTA?e=USbTfb">Lecture 3 - Part B</a>
 
+#### Assignments:
+- <a href="">Mock HW</a>
+- <a href="">HW 1</a>
+- <a href="">HW 2</a>
+
+#### Assignments Solutions:
+
+- <a href="">Solution to HW 1</a>
+- <a href="">Solution to HW 2</a>
+
+
+Make sure to check blackboard for the all notifications, course announcements, and the most upto date information! 
