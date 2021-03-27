@@ -36,15 +36,30 @@
 - <a href="https://cuny907-my.sharepoint.com/:u:/g/personal/devendra_kumar66_login_cuny_edu/EdO2OzLrpDpLtng-DVZWzYIBrNGQq84Nz_HExBCrGs1Vsw?e=pw6Enn">Lecture 3 - Part A</a>
 - <a href="https://cuny907-my.sharepoint.com/:u:/g/personal/devendra_kumar66_login_cuny_edu/ERfu9rdwOMtCn7p1Ht6Bc4IBkDBKLaJYnw1_ktXcAlyNTA?e=USbTfb">Lecture 3 - Part B</a>
 
+#### Sec 2.2 Building An arbitrary spanning tree- parent only:
+
+- <a href="https://cuny907-my.sharepoint.com/personal/devendra_kumar66_login_cuny_edu/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jdW55OTA3LW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL2RldmVuZHJhX2t1bWFyNjZfbG9naW5fY3VueV9lZHUvRWdiMFVwdncwOTVDdTlYR3VuNUc0cndCRzAtVmp2RllRaUxqN0JCR2d4emE1UT9ydGltZT1hMHltb0EzeDJFZw&id=%2Fpersonal%2Fdevendra%5Fkumar66%5Flogin%5Fcuny%5Fedu%2FDocuments%2F21sp%2D%2Ddistr%20algs%2FCh%202%2E%20Arbitrary%20Spanning%20Tree%20and%20Related%20Problems%2FSec%202%2E1%2E%20Arbitrary%20traversal%20of%20the%20network%2Faudio%20Part%20A%2D%2Dsec%202%2E1%20Arbitrary%20traversal%20of%20the%20network%2Ezip&parent=%2Fpersonal%2Fdevendra%5Fkumar66%5Flogin%5Fcuny%5Fedu%2FDocuments%2F21sp%2D%2Ddistr%20algs%2FCh%202%2E%20Arbitrary%20Spanning%20Tree%20and%20Related%20Problems%2FSec%202%2E1%2E%20Arbitrary%20traversal%20of%20the%20network">Lecture 4 - Part A</a>
+
+- <a href="https://cuny907-my.sharepoint.com/personal/devendra_kumar66_login_cuny_edu/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jdW55OTA3LW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL2RldmVuZHJhX2t1bWFyNjZfbG9naW5fY3VueV9lZHUvRWdiMFVwdncwOTVDdTlYR3VuNUc0cndCRzAtVmp2RllRaUxqN0JCR2d4emE1UT9ydGltZT1hMHltb0EzeDJFZw&id=%2Fpersonal%2Fdevendra%5Fkumar66%5Flogin%5Fcuny%5Fedu%2FDocuments%2F21sp%2D%2Ddistr%20algs%2FCh%202%2E%20Arbitrary%20Spanning%20Tree%20and%20Related%20Problems%2FSec%202%2E1%2E%20Arbitrary%20traversal%20of%20the%20network%2Faudio%20part%20B%20sec%202%2E1%20Arbitrary%20Traversal%20of%20the%20network%2Ezip&parent=%2Fpersonal%2Fdevendra%5Fkumar66%5Flogin%5Fcuny%5Fedu%2FDocuments%2F21sp%2D%2Ddistr%20algs%2FCh%202%2E%20Arbitrary%20Spanning%20Tree%20and%20Related%20Problems%2FSec%202%2E1%2E%20Arbitrary%20traversal%20of%20the%20network">Lecture 4 - Part B</a>
+
+- <a href="https://cuny907-my.sharepoint.com/personal/devendra_kumar66_login_cuny_edu/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jdW55OTA3LW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL2RldmVuZHJhX2t1bWFyNjZfbG9naW5fY3VueV9lZHUvRWdiMFVwdncwOTVDdTlYR3VuNUc0cndCRzAtVmp2RllRaUxqN0JCR2d4emE1UT9ydGltZT1hMHltb0EzeDJFZw&id=%2Fpersonal%2Fdevendra%5Fkumar66%5Flogin%5Fcuny%5Fedu%2FDocuments%2F21sp%2D%2Ddistr%20algs%2FCh%202%2E%20Arbitrary%20Spanning%20Tree%20and%20Related%20Problems%2FSec%202%2E1%2E%20Arbitrary%20traversal%20of%20the%20network%2Faudio%20Part%20C%2D%2Dsec%202%2E1%20Arbitrary%20Traversal%20of%20the%20Network%2Ezip&parent=%2Fpersonal%2Fdevendra%5Fkumar66%5Flogin%5Fcuny%5Fedu%2FDocuments%2F21sp%2D%2Ddistr%20algs%2FCh%202%2E%20Arbitrary%20Spanning%20Tree%20and%20Related%20Problems%2FSec%202%2E1%2E%20Arbitrary%20traversal%20of%20the%20network">Lecture 4 - Part C</a>
+
+- <a href="https://cuny907-my.sharepoint.com/personal/devendra_kumar66_login_cuny_edu/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jdW55OTA3LW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL2RldmVuZHJhX2t1bWFyNjZfbG9naW5fY3VueV9lZHUvRWdiMFVwdncwOTVDdTlYR3VuNUc0cndCRzAtVmp2RllRaUxqN0JCR2d4emE1UT9ydGltZT1hMHltb0EzeDJFZw&id=%2Fpersonal%2Fdevendra%5Fkumar66%5Flogin%5Fcuny%5Fedu%2FDocuments%2F21sp%2D%2Ddistr%20algs%2FCh%202%2E%20Arbitrary%20Spanning%20Tree%20and%20Related%20Problems%2FSec%202%2E1%2E%20Arbitrary%20traversal%20of%20the%20network%2Faudio%20part%20D%2D%2Dsec%202%2E1%20Arbitrary%20Traversal%20of%20network%2Ezip&parent=%2Fpersonal%2Fdevendra%5Fkumar66%5Flogin%5Fcuny%5Fedu%2FDocuments%2F21sp%2D%2Ddistr%20algs%2FCh%202%2E%20Arbitrary%20Spanning%20Tree%20and%20Related%20Problems%2FSec%202%2E1%2E%20Arbitrary%20traversal%20of%20the%20network">Lecture 4 - Part D</a>
+
+- <a href="https://cuny907-my.sharepoint.com/personal/devendra_kumar66_login_cuny_edu/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jdW55OTA3LW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL2RldmVuZHJhX2t1bWFyNjZfbG9naW5fY3VueV9lZHUvRWdiMFVwdncwOTVDdTlYR3VuNUc0cndCRzAtVmp2RllRaUxqN0JCR2d4emE1UT9ydGltZT1hMHltb0EzeDJFZw&id=%2Fpersonal%2Fdevendra%5Fkumar66%5Flogin%5Fcuny%5Fedu%2FDocuments%2F21sp%2D%2Ddistr%20algs%2FCh%202%2E%20Arbitrary%20Spanning%20Tree%20and%20Related%20Problems%2FSec%202%2E1%2E%20Arbitrary%20traversal%20of%20the%20network%2Faudio%20Part%20E%2D%2Dsec%202%2E1%20Arbitrary%20Traversals%20of%20the%20network%2Ezip&parent=%2Fpersonal%2Fdevendra%5Fkumar66%5Flogin%5Fcuny%5Fedu%2FDocuments%2F21sp%2D%2Ddistr%20algs%2FCh%202%2E%20Arbitrary%20Spanning%20Tree%20and%20Related%20Problems%2FSec%202%2E1%2E%20Arbitrary%20traversal%20of%20the%20network">Lecture 4 - Part E</a>
+
+<hr>
+
 #### Assignments:
-- <a href="">Mock HW</a>
-- <a href="">HW 1</a>
-- <a href="">HW 2</a>
+- <a href="https://docs.google.com/document/d/1f3vmww7-9mbOREmRvEuoxL0YKtgx0KEuqizIdHOFGCE/edit?usp=sharing">Mock HW</a>
+- <a href="#">HW 1</a>
+- <a href="https://docs.google.com/document/d/1Y4jtR-et8dEa7pn_PahLBGrCZ-3a33iW0CsT_72rgBU/edit?usp=sharing">HW 2</a>
 
 #### Assignments Solutions:
 
-- <a href="">Solution to HW 1</a>
-- <a href="">Solution to HW 2</a>
+- <a href="https://docs.google.com/document/d/1y7tb7XP0TgPdKu0pJ0Fg4VJwMUg-jIQq1jadrW9-QYg/edit?usp=sharing">Solution to Mock HW</a>
+- <a href="https://docs.google.com/document/d/1q43eDpIniILlT4FG7HYkcXyLjAACSyYtMRg3YdiOP0Q/edit?usp=sharing">Solution to HW 1</a>
+- <a href="https://docs.google.com/document/d/1t81G15DHmpWbo12Gwh9GiMvEDRjwwuHwblwTx2nuy6Y/edit?usp=sharing">Solution to HW 2</a>
 
 
 Make sure to check blackboard for the all notifications, course announcements, and the most upto date information! 
